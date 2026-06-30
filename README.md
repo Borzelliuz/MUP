@@ -59,7 +59,7 @@ pyDes
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Borzelliuz/MUP.git
 
 Go into the project directory:
 
